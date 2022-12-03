@@ -24,3 +24,4 @@ To debug the agent you can run `capture.py` between the `baselineTeam` and your 
 2. `python capture.py -r baselineTeam -b ../../../myTeam.py`
 
 
+# pacman-agent
